@@ -169,6 +169,10 @@ button {
     font-weight: 900;
 }
 
+.cta .text {
+    color: #e5e7eb;
+}
+
 .cta button {
     border: solid 2px #f9faf8
 }
