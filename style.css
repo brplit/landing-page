@@ -172,3 +172,10 @@ button {
 .cta button {
     border: solid 2px #f9faf8
 }
+
+.footer {
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
