@@ -68,7 +68,7 @@ button {
 }
 
 .hero .left {
-    padding-right: 32px;
+    padding-right: 48px;
 }
 
 .hero .title {
@@ -88,4 +88,44 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.info,
+.testimonial {
+    color: #1f2937;
+}
+
+.info .title {
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 48px;
+}
+
+.info {
+    padding-top: 48px;
+    padding-bottom: 128px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.block .img {
+    height: 150px;
+    width: 150px;
+    border: 4px solid #3882F6;
+    border-radius: 16px;
+    margin-bottom: 8px;
+}
+
+.block {
+    text-align: center;
+    width: 172px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.blocks {
+    display: flex;
+    gap: 48px;
 }
