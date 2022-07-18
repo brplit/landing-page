@@ -95,7 +95,7 @@ button {
 }
 
 .img-placeholder {
-    background-color: #666;
+    background-color: #e5e7eb50;
     width: 500px;
     height: 250px;
     display: flex;
