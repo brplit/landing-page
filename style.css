@@ -144,7 +144,7 @@ button {
 
 .client {
     font-size: 24px;
-    font-weight: 900;
+    font-weight: 700;
     align-self: flex-end;
 }
 
@@ -166,7 +166,7 @@ button {
 
 .cta .sub-title {
     font-size: 24px;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 .cta .text {
