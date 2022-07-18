@@ -61,7 +61,7 @@ button {
     gap: 24px;
 }
 
-.hero .container {
+.hero .splash {
     margin: 100px 0;
     display: flex;
     justify-content: space-between;
@@ -152,7 +152,7 @@ button {
     align-self: flex-end;
 }
 
-.cta .container{
+.cta .box{
     color: #f9faf8;
     background-color: #3882F6;
     margin: 100px 0;
