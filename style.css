@@ -130,6 +130,10 @@ button {
     gap: 48px;
 }
 
+.block .text {
+    color: #3a4e69;
+}
+
 .testimonial {
     padding: 100px 350px;
     display: flex;
