@@ -129,3 +129,21 @@ button {
     display: flex;
     gap: 48px;
 }
+
+.testimonial {
+    padding: 100px 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 36px;
+}
+
+.client {
+    font-size: 24px;
+    font-weight: 900;
+    align-self: flex-end;
+}
